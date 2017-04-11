@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## http://JerryGuangXu.github.io/ALS_Progression_Viz
 
 You can use the [editor on GitHub](https://github.com/JerryGuangXu/ALS_Progression_Viz/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
